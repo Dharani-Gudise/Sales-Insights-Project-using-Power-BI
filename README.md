@@ -1,4 +1,4 @@
-#Dharani's Portfolio:
+# Dharani's Portfolio:
 
 ## [Project 2: Sales-Insights-Project-using-Power-BI]
 * In this project, I took a problem statement 
